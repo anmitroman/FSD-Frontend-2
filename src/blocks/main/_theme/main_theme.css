@@ -1,0 +1,27 @@
+.block_two_column{
+    display:grid;
+    grid-template-columns: 70px 336px;
+    grid-template-rows: 70px 10px;
+    grid-row-gap: 10px;
+    grid-column-gap: 20px;
+}
+.main_theme_size_h1{
+    font-size: 24px;
+    line-height: 30px;    
+}
+.main_theme_size_h2{
+    font-size: 19px;
+    line-height: 24px;  
+}
+.main_theme_size_h3{
+    font-family: Montserrat;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+}
+.main_theme_size_body{
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: normal;
+}
