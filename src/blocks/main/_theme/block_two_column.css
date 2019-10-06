@@ -1,0 +1,7 @@
+.block_two_column{
+    display:grid;
+    grid-template-columns: 70px 336px;
+    grid-template-rows: 70px 10px;
+    grid-row-gap: 10px;
+    grid-column-gap: 20px;
+}

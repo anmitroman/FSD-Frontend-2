@@ -1,0 +1,4 @@
+.main__colors_type{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}

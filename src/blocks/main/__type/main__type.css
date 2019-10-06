@@ -1,0 +1,30 @@
+.type__element {
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+
+}
+.type__title{
+    text-align: right;
+    color:rgba(31, 32, 65, 0.25);;
+}
+.type__element_size_h1{
+    font-size: 24px;
+    line-height: 30px;    
+}
+.type__element_size_h2{
+    font-size: 19px;
+    line-height: 24px;  
+}
+.type__element_size_h3{
+    font-family: Montserrat;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+}
+.type__element_size_body{
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: normal;
+}
